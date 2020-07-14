@@ -14,7 +14,7 @@
 
 - Once Node is installed cd to the directory where app is stored
 
-- git clone the project
+- git clone the project https://github.com/IsraaTahon/project-myreads
 
 - npm install
 
